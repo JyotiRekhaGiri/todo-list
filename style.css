@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(28, 30, 30);
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 400px;
+    /* padding: 33px; */
+    text-align: center;
+    /* background-color: #262525; */
+    margin-left: 30%;
+    margin-bottom: 1rem;
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    /* border: 2px solid rgb(6, 145, 145); */
+    outline: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #3e3c3c;
+    font-size: 19px;
+    margin-bottom: 1rem;
+ }
+ 
+hr{
+   color: #3e3c3c;
+}
+ .text{
+   height: 200px;
+ }
+ nav {
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   background-color: #0d0d0d;
+   width: 100vw;
+   height: 20vh;
+ }
+ .navbar img{
+   justify-content: center;
+ }
+ .First-sesion{
+   justify-content: space-between;
+ }
+ button{
+    width: auto;
+    height: 41px;
+    background-color: rgb(28, 63, 127);
+    color: white;
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 5px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(52, 53, 53);
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+
+
+
+
+
+
+
+
+
+
